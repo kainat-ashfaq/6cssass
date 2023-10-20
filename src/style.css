@@ -1,5 +1,6 @@
 .bgimage {
   background-size: cover;
+  background-repeat: no-repeat;
 }
 .main {
   display: flex;
